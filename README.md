@@ -21,7 +21,7 @@
 <h2 align="center">🚀 About Me</h2>
 
 <div align="center">
-  <img src="./Assets/coding.gif" alt="Coding" width="400"/>
+  <img src="./Assets/coding.gif" alt="Coding" width="700"/>
 </div>
 
 - 🔭 Currently working on **AI-powered SaaS products**
