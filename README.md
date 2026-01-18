@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hey!+I'm+Shrikant+Lala+(Shriii)+👋;Aspiring+AI+Engineer+%26+Full+Stack+Developer;Creative+Technologist+%7C+SaaS+Builder;Building+AI-Powered+MVPs+%F0%9F%9A%80;Passionate+About+Innovation+%26+Problem+Solving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hey!+I'm+Shrikant+Lala+(Shriii);Aspiring+AI+Engineer+and+Full+Stack+Developer;Creative+Technologist+%7C+SaaS+Builder;Building+AI-Powered+MVPs;Passionate+About+Innovation+and+Problem+Solving" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -16,39 +16,30 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<div align="center">
 
 ```javascript
-const Shrikant = {
-    pronouns: "He" | "Him",
+const shrikant = {
+    role: "AI Engineer & Full Stack Developer",
     code: ["Python", "JavaScript", "TypeScript", "Java", "C"],
-    askMeAbout: ["AI/ML", "Web Dev", "SaaS", "Tech", "Design"],
+    focus: ["AI/ML", "Web Development", "SaaS"],
     technologies: {
-        frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["TailwindCSS", "Bootstrap"]
-        },
-        backEnd: {
-            js: ["Node", "Express"],
-            python: ["Flask", "FastAPI"]
-        },
-        aiMl: ["TensorFlow", "PyTorch", "LangChain", "scikit-learn"],
-        databases: ["MongoDB", "PostgreSQL", "SQLite"],
-        devOps: ["Docker", "GitHub Actions", "Vercel"],
-        tools: ["Git", "Postman", "Linux"]
+        frontend: ["React", "Next.js", "TailwindCSS"],
+        backend: ["Node.js", "Express", "FastAPI", "Flask"],
+        aiml: ["TensorFlow", "PyTorch", "LangChain"],
+        database: ["MongoDB", "PostgreSQL"],
+        devops: ["Docker", "GitHub Actions"]
     },
-    currentFocus: "Building AI-powered web applications",
-    funFact: "I debug with console.log() and I'm proud of it!"
+    currentlyBuilding: "AI-powered web applications"
 };
 ```
 
-<br clear="right"/>
+</div>
 
-- 🔭 I'm currently working on **AI-powered SaaS products**
-- 🌱 I'm currently learning **Advanced AI/ML & Backend Development**
-- 💬 Ask me about **Python, React, Next.js, AI/ML, or anything tech**
-- 🎯 2024 Goals: **Launch my own startup & contribute more to Open Source**
-- ⚡ Fun fact: **I can spend hours perfecting a README**
+- 🔭 Currently working on **AI-powered SaaS products**
+- 🌱 Learning **Advanced AI/ML & Backend Development**
+- 💬 Ask me about **Python, React, Next.js, AI/ML**
+- 🎯 Goal: **Launch my own startup & contribute to Open Source**
 - 👨‍💻 Portfolio: **[shrikant-lala-portfolio.vercel.app](https://shrikant-lala-portfolio.vercel.app)**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -107,88 +98,34 @@ const Shrikant = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="center">🎯 Current Focus & Goals</h2>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-  
-### 🚀 Currently Working On
-  
-🔧 Building **end-to-end AI-powered web apps**  
-🌐 Mastering **backend + authentication flows**  
-🤖 Exploring **LLM integration** in real-world apps  
-💼 Creating **SaaS MVPs** for startups  
-  
-</td>
-<td align="center" width="50%">
-  
-### 📚 Learning Journey
-  
-📖 Advanced **AI/ML algorithms**  
-🔐 **Authentication & security** best practices  
-⚡ **Performance optimization** techniques  
-🎨 **UI/UX design** principles  
-  
-</td>
-</tr>
-</table>
+<h2 align="center">🎯 Focus & Goals</h2>
 
 <div align="center">
-  
-### 💡 2024 Goals
-  
-🎯 Launch my own **startup**  
-📝 Contribute to **Open Source** projects  
-🎥 Create tech content for **LinkedIn + Instagram**  
-🌟 Build a **strong developer portfolio**  
-  
+
+**Currently Building:** AI-powered web applications with modern tech stack  
+**Learning:** Advanced AI/ML algorithms • Authentication & Security • Performance optimization  
+**2024 Goals:** Launch startup • Contribute to Open Source • Build strong portfolio
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="center">📊 GitHub Stats & Activity</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
-### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shrikantlala24&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1" alt="trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrikantlala24&theme=dark&hide_border=true&background=0D1117" alt="streak stats"/>
 </p>
-
-### 🔥 GitHub Streak Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrikantlala24&theme=midnight-purple&hide_border=true" alt="streak stats"/>
-</p>
-
-### 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrikantlala24&custom_title=Shrikant's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area_color=4a5484&area=true&hide_border=true" alt="activity graph"/>
-</p>
-
-### 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shrikantlala24/Shrikantlala24/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shrikantlala24/Shrikantlala24/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Shrikantlala24/Shrikantlala24/output/github-snake.svg" />
-</picture>
-
-### 📊 Detailed Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-swart-nu.vercel.app/api?username=Shrikantlala24&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-swart-nu.vercel.app/api/top-langs/?username=Shrikantlala24&theme=midnight-purple&layout=compact&hide_border=true&langs_count=8"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shrikantlala24&theme=github_dark" alt="profile summary"/>
+  <img height="180em" src="https://github-readme-stats-swart-nu.vercel.app/api?username=Shrikantlala24&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats-swart-nu.vercel.app/api/top-langs/?username=Shrikantlala24&theme=dark&layout=compact&hide_border=true&langs_count=6&bg_color=0D1117"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="center">🤝 Connect With Me</h2>
+<h2 align="center">🤝 Connect</h2>
 
 <div align="center">
-
-### 📱 Social Media
 
 <a href="https://linkedin.com/in/shrikantlala24" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -199,38 +136,12 @@ const Shrikant = {
 <a href="https://instagram.com/shirrriiii_04" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
-<a href="https://medium.com/@shrikantlala2023" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-</a>
-<a href="https://www.hackerrank.com/shrikantlala2023" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-</a>
-
-### 📧 Email
-
 <a href="mailto:shrikantlala2023@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
-### 💼 Portfolio
-
 <a href="https://shrikant-lala-portfolio.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
-
-### 💭 Random Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-
-### 😂 Random Dev Meme
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
 
 </div>
 
