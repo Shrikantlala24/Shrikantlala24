@@ -7,7 +7,7 @@
 </h1>
 
 <div align="center">
-  <img src="Assets/Motion%20graphics.gif" alt="Shrikant Lala logo" width="180"/>
+  <img src="Assets/motion-graphics.gif" alt="Shrikant Lala logo" width="180"/>
 </div>
 
 <p align="center">
