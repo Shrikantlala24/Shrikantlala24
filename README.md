@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shrikant%20Lala&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 </div>
 
+<p align="center">
+  <img src="./Assets/Motion graphics.gif" alt="Logo" width="200"/>
+</p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hey!+I'm+Shrikant+Lala+(Shriii);Aspiring+AI+Engineer+and+Full+Stack+Developer;Creative+Technologist+%7C+SaaS+Builder;Building+AI-Powered+MVPs;Passionate+About+Innovation+and+Problem+Solving" alt="Typing SVG" />
 </h1>
@@ -17,23 +21,7 @@
 <h2 align="center">🚀 About Me</h2>
 
 <div align="center">
-
-```javascript
-const shrikant = {
-    role: "AI Engineer & Full Stack Developer",
-    code: ["Python", "JavaScript", "TypeScript", "Java", "C"],
-    focus: ["AI/ML", "Web Development", "SaaS"],
-    technologies: {
-        frontend: ["React", "Next.js", "TailwindCSS"],
-        backend: ["Node.js", "Express", "FastAPI", "Flask"],
-        aiml: ["TensorFlow", "PyTorch", "LangChain"],
-        database: ["MongoDB", "PostgreSQL"],
-        devops: ["Docker", "GitHub Actions"]
-    },
-    currentlyBuilding: "AI-powered web applications"
-};
-```
-
+  <img src="./Assets/coding.gif" alt="Coding" width="400"/>
 </div>
 
 - 🔭 Currently working on **AI-powered SaaS products**
@@ -119,6 +107,34 @@ const shrikant = {
 <div align="center">
   <img height="180em" src="https://github-readme-stats-swart-nu.vercel.app/api?username=Shrikantlala24&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
   <img height="180em" src="https://github-readme-stats-swart-nu.vercel.app/api/top-langs/?username=Shrikantlala24&theme=dark&layout=compact&hide_border=true&langs_count=6&bg_color=0D1117"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shrikantlala24&bg_color=0D1117&color=A177F7&line=A177F7&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shrikantlala24/Shrikantlala24/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shrikantlala24/Shrikantlala24/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Shrikantlala24/Shrikantlala24/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shrikantlala24&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
