@@ -104,7 +104,7 @@ const shrikant = {
 
 **Currently Building:** AI-powered web applications with modern tech stack  
 **Learning:** Advanced AI/ML algorithms • Authentication & Security • Performance optimization  
-**2024 Goals:** Launch startup • Contribute to Open Source • Build strong portfolio
+**Goals:** Launch startup • Contribute to Open Source • Build strong portfolio
 
 </div>
 
