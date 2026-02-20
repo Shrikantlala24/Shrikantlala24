@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="./Assets/Motion graphics.gif" alt="Logo" width="400"/>
+  <img src="./Assets/Motion graphics.gif" alt="Logo" width="150"/>
 </p>
 
 <h1 align="center">
