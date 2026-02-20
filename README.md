@@ -3,11 +3,11 @@
 </div>
 
 <p align="center">
-  <img src="./Assets/Motion graphics.gif" alt="Logo" width="150"/>
+  <img src="./Assets/Motion graphics.gif" alt="Logo" width="200"/>
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hey!+I'm+Shrikant+Lala+(Shriii);AI/ML+Engineer+%26+Researcher;Building+Intelligent+Systems+with+Data;Focused+on+Deep+Learning,+NLP,+and+LLMs;Passionate+About+Research,+Innovation,+and+Impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=AI/ML+Engineer+%26+Researcher;Building+Intelligent+Systems+with+Data;Focused+on+Deep+Learning,+NLP,+and+LLMs;Passionate+About+Research,+Innovation,+and+Impact" alt="Typing SVG" />
 </h1>
 
 <p align="center">
