@@ -3,11 +3,11 @@
 </div>
 
 <p align="center">
-  <img src="./Assets/Motion graphics.gif" alt="Logo" width="200"/>
+  <img src="./Assets/Motion graphics.gif" alt="Logo" width="400"/>
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hey!+I'm+Shrikant+Lala+(Shriii);Aspiring+AI+Engineer+and+Full+Stack+Developer;Creative+Technologist+%7C+SaaS+Builder;Building+AI-Powered+MVPs;Passionate+About+Innovation+and+Problem+Solving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hey!+I'm+Shrikant+Lala+(Shriii);AI/ML+Engineer+%26+Researcher;Building+Intelligent+Systems+with+Data;Focused+on+Deep+Learning,+NLP,+and+LLMs;Passionate+About+Research,+Innovation,+and+Impact" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -24,11 +24,11 @@
   <img src="./Assets/coding.gif" alt="Coding" width="700"/>
 </div>
 
-- 🔭 Currently working on **AI-powered SaaS products**
-- 🌱 Learning **Advanced AI/ML & Backend Development**
-- 💬 Ask me about **Python, React, Next.js, AI/ML**
-- 🎯 Goal: **Launch my own startup & contribute to Open Source**
-- 👨‍💻 Portfolio: **[shrikant-lala-portfolio.vercel.app](https://shrikant-lala-portfolio.vercel.app)**
+- 🔭 Currently working on **Machine Learning research, model development, and experimentation**
+- 🌱 Learning **Advanced Deep Learning, LLMs, and Applied Statistical Modeling**
+- 💬 Ask me about **NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, SciPy, TensorFlow, PyTorch**
+- 🎯 Goal: **Build impactful AI systems, publish quality work, and contribute to Open Source**
+- 🧪 Interests: **NLP, Computer Vision, Generative AI, and Responsible AI**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -38,24 +38,8 @@
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🌐 Frontend Development
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%231572B6.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Backend Development
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🤖 AI/ML & Data Science
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
@@ -65,11 +49,17 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 ![LangChain](https://img.shields.io/badge/langchain-%23000000.svg?style=for-the-badge&logo=chainlink&logoColor=white)
 
-### ☁️ Cloud & DevOps
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
+### 📊 Data Analysis & Visualization
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+
+### ⚙️ MLOps & Engineering
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Weights%20%26%20Biases](https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
@@ -79,7 +69,6 @@
 ### 🧰 Tools & Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
@@ -91,8 +80,8 @@
 <div align="center">
 
 **Currently Building:** AI-powered web applications with modern tech stack  
-**Learning:** Advanced AI/ML algorithms • Authentication & Security • Performance optimization  
-**Goals:** Launch startup • Contribute to Open Source • Build strong portfolio
+**Learning:** Advanced AI/ML algorithms • LLM fine-tuning • Model interpretability  
+**Goals:** Publish impactful research • Build production-grade ML systems • Contribute to Open Source
 
 </div>
 
