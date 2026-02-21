@@ -1,25 +1,13 @@
-<style>
-.image-rounded {
-  border-radius: 20px;
-  display: inline-block;
-}
-.image-rounded img {
-  border-radius: 20px;
-}
-</style>|
-<!-- | ![Alt](image.png) |<div class="image-rounded">![Alt](image2.png)</div>| -->
-
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shrikant%20Lala&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 </div>
 
 <p align="center">
-  <img class="image-rounded" src="./Assets/Motion graphics.gif" alt="Logo" width="200" />
+  <img src="./Assets/Motion graphics.gif" alt="Logo" width="200" style="border-radius: 20px;"/>
 </p>
 
 <h1 align="center">
-  <img class="image-rounded" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=AI/ML+Engineer+%26+Researcher;Building+Intelligent+Systems+with+Data;Focused+on+Deep+Learning,+NLP,+and+LLMs;Passionate+About+Research,+Innovation,+and+Impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=AI/ML+Engineer+%26+Researcher;Building+Intelligent+Systems+with+Data;Focused+on+Deep+Learning,+NLP,+and+LLMs;Passionate+About+Research,+Innovation,+and+Impact" alt="Typing SVG" />
 </h1>
 
 <p align="center">
