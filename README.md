@@ -160,16 +160,16 @@
 <a href="https://x.com/shrikantlala04" target="_blank">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
 </a>
-<a href="https://discord.com" target="_blank">
+<a href="https://discord.com/shirrriiii_04" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
-<a href="https://medium.com/@shrikantlala24" target="_blank">
+<a href="https://medium.com/@shrikantlala2023" target="_blank">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
 </a>
 <a href="https://dev.to/shrikantlala24" target="_blank">
   <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
 </a>
-<a href="https://leetcode.com/u/shrikantlala24" target="_blank">
+<a href="https://leetcode.com/u/Shrikantlala_04" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 <a href="mailto:shrikantlala2023@gmail.com">
