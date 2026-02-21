@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="./Assets/Motion graphics.gif" alt="Logo" width="200" style="border-radius: 20px;"/>
+  <img src="./Assets/Motion graphics.gif" alt="Logo" width="200"/>
 </p>
 
 <h1 align="center">
