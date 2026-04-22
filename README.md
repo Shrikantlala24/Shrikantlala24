@@ -2,19 +2,26 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shrikant%20Lala&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 </div>
 
-<p align="center">
-  <img src="./Assets/Motion graphics.gif" alt="Logo" width="200"/>
-</p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=AI/ML+Engineer+%26+Researcher;Building+Intelligent+Systems+with+Data;Focused+on+Deep+Learning,+NLP,+and+LLMs;Passionate+About+Research,+Innovation,+and+Impact" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shrikantlala24&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/shrikantlala24?label=Followers&style=for-the-badge&color=blueviolet" alt="followers" />
-  <img src="https://img.shields.io/github/stars/shrikantlala24?label=Stars&style=for-the-badge&color=blueviolet" alt="stars" />
-</p>
+<table align="center">
+  <tr>
+    <td height="300" width="300" align="center" valign="middle">
+      <img src="./Assets/Motion graphics.gif" alt="Logo" width="300" />
+    </td>
+    <td align="left" width="780" valign="middle">
+      <p>
+        <img
+          src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1800&color=A177F7&vCenter=true&width=620&lines=AI%2FML+Engineer+%26+Researcher;Building+Intelligent+Systems+with+Data;Focused+on+Deep+Learning%2C+NLP%2C+and+LLMs;Passionate+About+Research%2C+Innovation%2C+and+Impact"
+          alt="Typing SVG" 
+        />
+      </p>
+      <p>
+        <img src="https://komarev.com/ghpvc/?username=shrikantlala24&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="Profile views" />
+        <img src="https://img.shields.io/github/followers/shrikantlala24?label=Followers&style=for-the-badge&color=8A2BE2" alt="Followers" />
+        <img src="https://img.shields.io/github/stars/shrikantlala24?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=8A2BE2&label=Stars" alt="Stars" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
