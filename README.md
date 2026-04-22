@@ -5,7 +5,7 @@
 <table align="center" border="0px" cellspacing="0" cellpadding="0">
   <tr>
     <td width="300" height="300" align="center" valign="middle">
-      <img src="./Assets/Motion graphics.gif" alt="Logo" width="280" />
+      <img src="./Assets/Motion graphics.gif" alt="Logo" width="250" />
     </td>
     <td width="780" align="left" valign="middle">
       <p>
