@@ -2,16 +2,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shrikant%20Lala&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 </div>
 
-<table align="center">
+<table align="center" border="0px" cellspacing="0" cellpadding="0">
   <tr>
-    <td height="300" width="300" align="center" valign="middle">
-      <img src="./Assets/Motion graphics.gif" alt="Logo" width="300" />
+    <td width="300" height="300" align="center" valign="middle">
+      <img src="./Assets/Motion graphics.gif" alt="Logo" width="280" />
     </td>
-    <td align="left" width="780" valign="middle">
+    <td width="780" align="left" valign="middle">
       <p>
         <img
           src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1800&color=A177F7&vCenter=true&width=620&lines=AI%2FML+Engineer+%26+Researcher;Building+Intelligent+Systems+with+Data;Focused+on+Deep+Learning%2C+NLP%2C+and+LLMs;Passionate+About+Research%2C+Innovation%2C+and+Impact"
-          alt="Typing SVG" 
+          alt="Typing SVG"
         />
       </p>
       <p>
@@ -24,20 +24,28 @@
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h2 align="center">🏢 Projects</h2>
 
-<h2 align="center">🚀 About Me</h2>
+<p align="center">
+  <a href="https://github.com/Shrikantlala24/Music-recommendation-MLops">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shrikantlala24&repo=Music-recommendation-MLops&theme=midnight-purple&height=160" />
+  </a>
+  <a href="https://github.com/Shrikantlala24/Sommaire-PDF-summary-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shrikantlala24&repo=Sommaire-PDF-summary-app&theme=midnight-purple&height=160" />
+  </a>
+</p>
 
-<div align="center">
-  <img src="./Assets/coding.gif" alt="Coding" width="400"/>
-</div>
-
-- 🔭 Currently working on **Machine Learning research, model development, and experimentation**
-- 🌱 Learning **Advanced Deep Learning, LLMs, and Applied Statistical Modeling**
-- 💬 Ask me about **NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, SciPy, TensorFlow, PyTorch**
-- 🎯 Goal: **Build impactful AI systems, publish quality work, and contribute to Open Source**
-- 🧪 Interests: **NLP, Computer Vision, Generative AI, and Responsible AI**
+<p align="center">
+  <a href="https://github.com/Shrikantlala24/Machine-learning">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shrikantlala24&repo=Machine-learning&theme=midnight-purple&height=160" />
+  </a>
+  <a href="https://github.com/Shrikantlala24/NumPy-Course">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shrikantlala24&repo=NumPy-Course&theme=midnight-purple&height=160" />
+  </a>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 
