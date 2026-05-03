@@ -26,23 +26,53 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2 align="center">🏢 Projects</h2>
 
-<p align="center">
-  <a href="https://github.com/Shrikantlala24/Music-recommendation-MLops">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shrikantlala24&repo=Music-recommendation-MLops&theme=midnight-purple&height=160" />
-  </a>
-  <a href="https://github.com/Shrikantlala24/Sommaire-PDF-summary-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shrikantlala24&repo=Sommaire-PDF-summary-app&theme=midnight-purple&height=160" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
 
-<p align="center">
-  <a href="https://github.com/Shrikantlala24/Machine-learning">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shrikantlala24&repo=Machine-learning&theme=midnight-purple&height=160" />
-  </a>
-  <a href="https://github.com/Shrikantlala24/NumPy-Course">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shrikantlala24&repo=NumPy-Course&theme=midnight-purple&height=160" />
-  </a>
-</p>
+### 🎵 Music Recommendation MLOps
+Machine learning + MLOps project for music recommendation workflows.
+
+[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shrikantlala24/Music-recommendation-MLops)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![MLOps](https://img.shields.io/badge/MLOps-6A1B9A?style=for-the-badge&logo=mlflow&logoColor=white)](#)
+
+</td>
+<td width="50%" valign="top">
+
+### 📄 Sommaire PDF Summary App
+PDF summarization app for extracting concise insights from documents.
+
+[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shrikantlala24/Sommaire-PDF-summary-app)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![App](https://img.shields.io/badge/Summary%20Tool-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white)](#)
+
+</td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+
+### 🤖 Machine Learning
+Collection of machine learning experiments, models, and notebooks.
+
+[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shrikantlala24/Machine-learning)
+[![ML](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)](#)
+[![Notebook](https://img.shields.io/badge/Projects-2E7D32?style=for-the-badge&logo=jupyter&logoColor=white)](#)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔢 NumPy Course
+Hands-on NumPy learning repository with examples and practice material.
+
+[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shrikantlala24/NumPy-Course)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](#)
+[![Course](https://img.shields.io/badge/Learning%20Repo-8E24AA?style=for-the-badge&logo=bookstack&logoColor=white)](#)
+
+</td>
+  </tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
