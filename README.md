@@ -2,96 +2,78 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shrikant%20Lala&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 </div>
 
+<table align="center" border="0px" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="300" height="300" align="center" valign="middle">
+      <img src="./Assets/Motion graphics.gif" alt="Logo" width="250" />
+    </td>
+    <td width="780" align="left" valign="middle">
+      <p>
+        <img
+          src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1800&color=A177F7&vCenter=true&width=620&lines=AI%2FML+Engineer+%26+Researcher;Building+Intelligent+Systems+with+Data;Focused+on+Deep+Learning%2C+NLP%2C+and+LLMs;Passionate+About+Research%2C+Innovation%2C+and+Impact"
+          alt="Typing SVG"
+        />
+      </p>
+      <p>
+        <img src="https://komarev.com/ghpvc/?username=shrikantlala24&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="Profile views" />
+        <img src="https://img.shields.io/github/followers/shrikantlala24?label=Followers&style=for-the-badge&color=8A2BE2" alt="Followers" />
+        <img src="https://img.shields.io/github/stars/shrikantlala24?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=8A2BE2&label=Stars" alt="Stars" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h2 align="center">🏢 Projects</h2>
+
 <p align="center">
-  <img src="./Assets/Motion graphics.gif" alt="Logo" width="200"/>
+  <a href="https://github.com/Shrikantlala24/Music-recommendation-MLops">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shrikantlala24&repo=Music-recommendation-MLops&theme=midnight-purple&height=160" />
+  </a>
+  <a href="https://github.com/Shrikantlala24/Sommaire-PDF-summary-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shrikantlala24&repo=Sommaire-PDF-summary-app&theme=midnight-purple&height=160" />
+  </a>
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=AI/ML+Engineer+%26+Researcher;Building+Intelligent+Systems+with+Data;Focused+on+Deep+Learning,+NLP,+and+LLMs;Passionate+About+Research,+Innovation,+and+Impact" alt="Typing SVG" />
-</h1>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shrikantlala24&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/shrikantlala24?label=Followers&style=for-the-badge&color=blueviolet" alt="followers" />
-  <img src="https://img.shields.io/github/stars/shrikantlala24?label=Stars&style=for-the-badge&color=blueviolet" alt="stars" />
+  <a href="https://github.com/Shrikantlala24/Machine-learning">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shrikantlala24&repo=Machine-learning&theme=midnight-purple&height=160" />
+  </a>
+  <a href="https://github.com/Shrikantlala24/NumPy-Course">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shrikantlala24&repo=NumPy-Course&theme=midnight-purple&height=160" />
+  </a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="center">🚀 About Me</h2>
-
-<div align="center">
-  <img src="./Assets/coding.gif" alt="Coding" width="400"/>
-</div>
-
-- 🔭 Currently working on **Machine Learning research, model development, and experimentation**
-- 🌱 Learning **Advanced Deep Learning, LLMs, and Applied Statistical Modeling**
-- 💬 Ask me about **NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, SciPy, TensorFlow, PyTorch**
-- 🎯 Goal: **Build impactful AI systems, publish quality work, and contribute to Open Source**
-- 🧪 Interests: **NLP, Computer Vision, Generative AI, and Responsible AI**
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 
-<div align="center">
+<div>
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![SQL](https://img.shields.io/badge/sql-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+**Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-336791?style=for-the-badge&logo=postgresql&logoColor=white)![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### 🤗 AI Platforms
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+**AI Platforms:** ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)  
 
-### 🔁 CI/CD
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
+**CI/CD:** ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)  
 
-### ☁️ Cloud & Deployment
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+**Cloud & Deployment:** ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![NeonDB](https://img.shields.io/badge/NeonDB-00E599?style=for-the-badge&logo=neondatabase&logoColor=black)
+**Databases:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![NeonDB](https://img.shields.io/badge/NeonDB-00E599?style=for-the-badge&logo=neondatabase&logoColor=black)  
 
-### 📊 Data Analysis & Visualization
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+**Data Analysis & Visualization:** ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)  
 
-### 🧠 ML Frameworks
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+**ML Frameworks:** ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
 
-### 🔗 LLM & AI Frameworks
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
-![JAX](https://img.shields.io/badge/JAX-0A0A0A?style=for-the-badge&logo=google&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+**LLM & AI Frameworks:** ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white) ![JAX](https://img.shields.io/badge/JAX-0A0A0A?style=for-the-badge&logo=google&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
 
-### 📈 BI Tools
-![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+**BI Tools:** ![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
 
-### ⚙️ MLOps & Engineering
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Weights%20%26%20Biases](https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+**MLOps & Engineering:** ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white) ![Weights%20%26%20Biases](https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 💻 Additional Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+**Additional Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
 
-### 🧰 Tools & Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+**Tools & Systems:** ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
